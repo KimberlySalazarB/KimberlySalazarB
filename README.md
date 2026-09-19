@@ -86,8 +86,9 @@ Python · NLP · Machine Learning · Web
 
 <div align="center">
 
-<img src="./1731169953416.jfif" width="500" height="600" alt="Segmentación de imágenes de cáncer gastrointestinal">
-
+<img src="./1731169953416.jfif" width="500" height="300" alt="Segmentación de imágenes de cáncer gastrointestinal">
+<br/>
+<br/>
 <h3>🩺 Segmentación de imágenes de cáncer gastrointestinal</h3>
 
 <p>
