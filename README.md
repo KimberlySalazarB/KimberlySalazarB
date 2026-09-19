@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=👋 Hola, soy Kimberly Salazar%20Salazar&fontSize=45&fontColor=ffffff" width="100%"/>
+<h1>👋</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&text=Kimberly%20Salazar&fontSize=45&fontColor=ffffff&fontAlignY=50&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Artificial%20Intelligence&descSize=18&descAlignY=75&descColor=cccccc" width="100%"/>
+
+</div>
 
 
 <p align="center">
