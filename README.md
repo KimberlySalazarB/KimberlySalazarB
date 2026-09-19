@@ -56,27 +56,26 @@
 
 # 🚀 Proyectos destacados
 
-# 🚀 Proyectos destacados
-
 <div align="center">
 
 <table>
 <tr>
 
-<td width="48%" valign="top">
+<td width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" valign="top">
 
 <div align="center">
 
 <img src="./images/vph.png" width="100%" alt="Clasificación automática de comentarios sobre la vacuna contra el VPH">
 
-### 🧠 Clasificación automática de comentarios sobre la vacuna contra el VPH
+<h3>🧠 Clasificación automática de comentarios sobre la vacuna contra el VPH</h3>
 
 <p>
 Aplicación web para el análisis y clasificación automática de comentarios relacionados con la vacunación contra el Virus del Papiloma Humano mediante técnicas de <b>NLP y Machine Learning</b>.
 </p>
 
 <p>
-<b>🛠️ Python · NLP · Machine Learning · Web</b>
+<b>🛠️ Tecnologías</b><br>
+Python · NLP · Machine Learning · Web
 </p>
 
 <a href="TU_LINK_GITHUB_VPH">
@@ -87,20 +86,21 @@ Aplicación web para el análisis y clasificación automática de comentarios re
 
 </td>
 
-<td width="48%" valign="top">
+<td width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" valign="top">
 
 <div align="center">
 
 <img src="./images/segmentacion.png" width="100%" alt="Segmentación de imágenes de cáncer gastrointestinal">
 
-### 🩺 Segmentación de imágenes de cáncer gastrointestinal
+<h3>🩺 Segmentación de imágenes de cáncer gastrointestinal</h3>
 
 <p>
 Desarrollo de un modelo de <b>segmentación semántica de imágenes médicas</b> utilizando Deep Learning y la arquitectura U-Net.
 </p>
 
 <p>
-<b>🛠️ Python · TensorFlow · U-Net · Computer Vision</b>
+<b>🛠️ Tecnologías</b><br>
+Python · TensorFlow · U-Net · Computer Vision
 </p>
 
 <a href="TU_LINK_GITHUB_SEGMENTACION">
@@ -119,20 +119,21 @@ Desarrollo de un modelo de <b>segmentación semántica de imágenes médicas</b>
 <table>
 <tr>
 
-<td width="48%" valign="top">
+<td width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" valign="top">
 
 <div align="center">
 
 <img src="./images/ml-distribuido.png" width="100%" alt="Machine Learning distribuido y paralelo">
 
-### ⚡ Machine Learning distribuido y paralelo
+<h3>⚡ Machine Learning distribuido y paralelo</h3>
 
 <p>
 Implementación y evaluación de algoritmos de <b>Machine Learning en entornos paralelos y distribuidos</b>, comparando rendimiento y uso de recursos.
 </p>
 
 <p>
-<b>🛠️ Python · Dask · PySpark · Joblib · XGBoost</b>
+<b>🛠️ Tecnologías</b><br>
+Python · Dask · PySpark · Joblib · XGBoost
 </p>
 
 <a href="TU_LINK_GITHUB_DISTRIBUIDO">
@@ -143,20 +144,21 @@ Implementación y evaluación de algoritmos de <b>Machine Learning en entornos p
 
 </td>
 
-<td width="48%" valign="top">
+<td width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" valign="top">
 
 <div align="center">
 
 <img src="./images/algoritmia.png" width="100%" alt="Intérprete para el lenguaje Algoritmia">
 
-### 💻 Intérprete para el lenguaje Algoritmia
+<h3>💻 Intérprete para el lenguaje Algoritmia</h3>
 
 <p>
 Desarrollo de un intérprete en <b>Python</b> para el lenguaje Algoritmia utilizando ANTLR4 para la definición de la gramática y el procesamiento sintáctico.
 </p>
 
 <p>
-<b>🛠️ Python · ANTLR4 · LilyPond</b>
+<b>🛠️ Tecnologías</b><br>
+Python · ANTLR4 · LilyPond
 </p>
 
 <a href="TU_LINK_GITHUB_ALGORITMIA">
@@ -172,25 +174,24 @@ Desarrollo de un intérprete en <b>Python</b> para el lenguaje Algoritmia utiliz
 
 <br>
 
-<div align="center">
-
 <table>
 <tr>
 
-<td width="48%" valign="top">
+<td width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" valign="top">
 
 <div align="center">
 
 <img src="./images/recomendador.png" width="100%" alt="Sistema de recomendación de canciones">
 
-### 🎵 Sistema de recomendación de canciones
+<h3>🎵 Sistema de recomendación de canciones</h3>
 
 <p>
 Sistema de recomendación musical basado en <b>filtrado colaborativo</b>, utilizando similitud de coseno y técnicas de álgebra lineal para generar recomendaciones personalizadas.
 </p>
 
 <p>
-<b>🛠️ Python · Machine Learning · SVD · PCA · Recommender Systems</b>
+<b>🛠️ Tecnologías</b><br>
+Python · Machine Learning · SVD · PCA · Recommender Systems
 </p>
 
 <a href="TU_LINK_GITHUB_RECOMENDADOR">
@@ -205,6 +206,7 @@ Sistema de recomendación musical basado en <b>filtrado colaborativo</b>, utiliz
 </table>
 
 </div>
+
 
 ---
 
