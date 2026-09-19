@@ -124,7 +124,7 @@ Python · TensorFlow · U-Net · Computer Vision
 
 <img src="./1731170333849.jfif" width="400" height="220" alt="Machine Learning distribuido y paralelo">
 
-<h3>⚡ Machine Learning distribuido y paralelo</h3>
+<h3>⚡ Implementación de algoritmos de Machine Learning distribuidos</h3>
 
 <p>
 Implementación y evaluación de algoritmos de <b>Machine Learning en entornos paralelos y distribuidos</b>, comparando rendimiento y uso de recursos.
