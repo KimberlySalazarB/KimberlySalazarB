@@ -119,7 +119,7 @@ Python · TensorFlow · U-Net · Computer Vision
 
 <div align="center">
 
-<img src="./1731170333849.jfif" width="400" height="220"alt="Machine Learning distribuido y paralelo">
+<img src="./1731170333849.jfif" width="400" height="220" alt="Machine Learning distribuido y paralelo">
 
 <h3>⚡ Machine Learning distribuido y paralelo</h3>
 
