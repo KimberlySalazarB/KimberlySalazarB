@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=Kimberly%20Salazar&fontSize=45&fontColor=ffffff" width="100%"/>
+
+</div>
 # 👋 Hola, soy Kimberly Salazar
 
 <p align="center">
