@@ -56,142 +56,169 @@
 
 # 🚀 Proyectos destacados
 
-## 🧠 Clasificación automática de comentarios sobre la vacuna contra el VPH
+<table>
+<tr>
 
-**Proyecto de investigación — Laboratorio de Ingeniería Biomédica**
+<td width="50%" valign="top">
 
-Aplicación web para el análisis y clasificación automática de comentarios relacionados con la vacunación contra el Virus del Papiloma Humano mediante técnicas de **Procesamiento de Lenguaje Natural y modelos de lenguaje**.
+<h3 align="center">🧠 Clasificación automática de comentarios sobre la vacuna contra el VPH</h3>
 
-**Principales características:**
+<p align="center">
+  <img src="./images/vph.png" width="100%" alt="Clasificación automática de comentarios sobre la vacuna contra el VPH">
+</p>
 
-- 📝 Clasificación de comentarios en categorías como **a favor, en contra y dudas**.
-- 📂 Carga y procesamiento de archivos **XML y CSV**.
-- 📊 Generación y descarga de resultados.
-- 🤖 Aplicación de técnicas de **NLP y Machine Learning**.
-- 📜 Software registrado en **INDECOPI**, expediente Nº 001594-2024.
+<p>
+Aplicación web para el análisis y clasificación automática de comentarios relacionados con la vacunación contra el Virus del Papiloma Humano mediante técnicas de <b>NLP y Machine Learning</b>.
+</p>
 
-**Tecnologías:** `Python` `NLP` `Machine Learning` `Web`
+<p>
+<b>🛠️ Tecnologías:</b><br>
+Python · NLP · Machine Learning · Web
+</p>
 
----
+<p align="center">
+  <a href="TU_LINK_GITHUB_VPH">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-## 🏥 Valoración inicial de pacientes asistida por LLM
+</td>
 
-### Recomendación de Cuidados en Enfermería
+<td width="50%" valign="top">
 
-**Proyecto de tesis de pregrado**
+<h3 align="center">🏥 Valoración inicial de pacientes asistida por LLM</h3>
 
-Desarrollo de un sistema basado en **Large Language Models (LLM) y Retrieval-Augmented Generation (RAG)** para apoyar la recomendación de intervenciones de enfermería durante la valoración inicial de pacientes con afecciones respiratorias.
+<p align="center">
+  <img src="./images/tesis.png" width="100%" alt="Valoración inicial de pacientes asistida por LLM">
+</p>
 
-**Principales componentes:**
+<p>
+Desarrollo de un sistema basado en <b>LLM y RAG</b> para apoyar la recomendación de intervenciones de enfermería durante la valoración inicial de pacientes con afecciones respiratorias.
+</p>
 
-- 🧠 Construcción de una base de conocimiento a partir de la **Clasificación de Intervenciones de Enfermería (NIC)**.
-- 🔎 Recuperación semántica mediante **embeddings y FAISS**.
-- ⚙️ Preparación, validación y generación de consultas clínicas.
-- 🔧 Experimentación con **fine-tuning de modelos de embeddings**.
-- 📈 Evaluación mediante métricas de **Information Retrieval y RAGAS**.
-- 👩‍⚕️ Evaluación de usabilidad mediante **SUS**.
-- 🎙️ Integración de reconocimiento de voz mediante **Whisper**.
+<p>
+<b>🛠️ Tecnologías:</b><br>
+Python · LLM · RAG · FAISS · Embeddings · Fine-tuning · RAGAS · Whisper
+</p>
 
-**Tecnologías:**  
-`Python` `LLM` `RAG` `FAISS` `Embeddings` `Fine-tuning` `RAGAS` `Whisper`
+<p align="center">
+  <a href="TU_LINK_GITHUB_TESIS">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
----
+</td>
 
-## 🩺 Segmentación de imágenes de cáncer gastrointestinal
+</tr>
 
-**Proyecto de curso — Introducción a Machine Learning**
+<tr>
 
-Desarrollo de un modelo de **segmentación semántica de imágenes médicas** utilizando Deep Learning.
+<td width="50%" valign="top">
 
-**Características:**
+<h3 align="center">🩺 Segmentación de imágenes de cáncer gastrointestinal</h3>
 
-- 🧠 Implementación de arquitectura **U-Net**.
-- 🖼️ Procesamiento de imágenes del dataset **HyperKvasir**.
-- 🔬 Identificación y segmentación de regiones de interés gastrointestinales.
-- 📊 Evaluación mediante métricas de segmentación.
+<p align="center">
+  <img src="./images/segmentacion.png" width="100%" alt="Segmentación de imágenes de cáncer gastrointestinal">
+</p>
 
-**Tecnologías:**  
-`Python` `TensorFlow` `Deep Learning` `U-Net` `Computer Vision`
+<p>
+Desarrollo de un modelo de <b>segmentación semántica de imágenes médicas</b> utilizando Deep Learning y la arquitectura U-Net.
+</p>
 
----
+<p>
+<b>🛠️ Tecnologías:</b><br>
+Python · TensorFlow · Deep Learning · U-Net · Computer Vision
+</p>
 
-## ⚡ Machine Learning distribuido y paralelo
+<p align="center">
+  <a href="TU_LINK_GITHUB_SEGMENTACION">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-**Proyecto de curso — Computación Paralela y Distribuida**
+</td>
 
-Implementación y evaluación de algoritmos de Machine Learning en entornos **paralelos y distribuidos**.
+<td width="50%" valign="top">
 
-**Algoritmos y técnicas:**
+<h3 align="center">⚡ Machine Learning distribuido y paralelo</h3>
 
-- 🔹 K-Means
-- 🔹 XGBoost
-- 🔹 Redes Neuronales Convolucionales (CNN)
-- 🔹 Grid Search y Random Search
-- 🔹 Paralelización con Joblib
-- 🔹 Procesamiento distribuido con Dask y PySpark
-- 🔹 Perfilado con `cProfile`
+<p align="center">
+  <img src="./images/ml-distribuido.png" width="100%" alt="Machine Learning distribuido y paralelo">
+</p>
 
-Se analizaron **tiempo de ejecución, uso de CPU y memoria**, comparando implementaciones distribuidas y no distribuidas.
+<p>
+Implementación y evaluación de algoritmos de <b>Machine Learning en entornos paralelos y distribuidos</b>, comparando rendimiento y uso de recursos.
+</p>
 
-**Tecnologías:**  
-`Python` `Dask` `PySpark` `Joblib` `XGBoost` `TensorFlow`
+<p>
+<b>🛠️ Tecnologías:</b><br>
+Python · Dask · PySpark · Joblib · XGBoost · TensorFlow
+</p>
 
----
+<p align="center">
+  <a href="TU_LINK_GITHUB_DISTRIBUIDO">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-## 💻 Intérprete para el lenguaje Algoritmia
+</td>
 
-**Proyecto de curso — Implementación de Lenguajes de Programación**
+</tr>
 
-Desarrollo de un intérprete en Python para el lenguaje **Algoritmia**, utilizando **ANTLR4** para la definición de la gramática y el procesamiento sintáctico.
+<tr>
 
-**Implementación:**
+<td width="50%" valign="top">
 
-- 🔹 Estructuras de control.
-- 🔹 Procedimientos y recursividad.
-- 🔹 Listas y expresiones aritméticas y relacionales.
-- 🔹 Manejo de ámbitos locales.
-- 🔹 Validación y manejo de errores de ejecución.
-- 🎵 Integración con **LilyPond** para generación de partituras.
-- 📄 Generación de archivos PDF, MIDI y WAV.
+<h3 align="center">💻 Intérprete para el lenguaje Algoritmia</h3>
 
-**Tecnologías:**  
-`Python` `ANTLR4` `LilyPond`
+<p align="center">
+  <img src="./images/algoritmia.png" width="100%" alt="Intérprete para el lenguaje Algoritmia">
+</p>
 
----
+<p>
+Desarrollo de un intérprete en <b>Python</b> para el lenguaje Algoritmia utilizando ANTLR4 para la definición de la gramática y el procesamiento sintáctico.
+</p>
 
-## 🎵 Sistema de recomendación de canciones
+<p>
+<b>🛠️ Tecnologías:</b><br>
+Python · ANTLR4 · LilyPond
+</p>
 
-**Proyecto de curso — Métodos Numéricos y Optimización para Machine Learning**
+<p align="center">
+  <a href="TU_LINK_GITHUB_ALGORITMIA">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-Sistema de recomendación musical basado en **filtrado colaborativo**, utilizando similitud de coseno para identificar patrones de preferencias y generar recomendaciones personalizadas.
+</td>
 
-**Técnicas utilizadas:**
+<td width="50%" valign="top">
 
-- 🎧 Filtrado colaborativo.
-- 📐 Similitud de coseno.
-- 🔢 SVD.
-- 📊 PCA.
-- 🧮 CUR.
-- 📈 Análisis del problema **Long Tail**.
-- ⚙️ Procesamiento de datos de reproducción.
+<h3 align="center">🎵 Sistema de recomendación de canciones</h3>
 
-**Tecnologías:**  
-`Python` `Machine Learning` `SVD` `PCA` `Recommender Systems`
+<p align="center">
+  <img src="./images/recomendador.png" width="100%" alt="Sistema de recomendación de canciones">
+</p>
 
----
+<p>
+Sistema de recomendación musical basado en <b>filtrado colaborativo</b>, utilizando similitud de coseno y técnicas de álgebra lineal para generar recomendaciones personalizadas.
+</p>
 
-# 🔬 Research Interests
+<p>
+<b>🛠️ Tecnologías:</b><br>
+Python · Machine Learning · SVD · PCA · Recommender Systems
+</p>
 
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- 🧠 Machine Learning & Deep Learning
-- 💬 Natural Language Processing
-- 🧩 Large Language Models & RAG
-- 🔎 Information Retrieval
-- 🏥 AI applied to Healthcare
-- 🎯 Recommender Systems
-- 📈 Data Analytics
+<p align="center">
+  <a href="TU_LINK_GITHUB_RECOMENDADOR">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
+</td>
+
+</tr>
+</table>
 ---
 
 # 📊 GitHub
