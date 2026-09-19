@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tecnologías
 
 ### Data Science & AI
 
@@ -43,13 +43,26 @@
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge">
 </p>
 
-### Data & Development
+### Programming Languages & Mobile
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white">
+</p>
+
+### Data, Cloud & Development
 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-GitF050?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=powerapps&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 </p>
 
 # 🚀 Featured Projects
