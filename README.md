@@ -87,7 +87,7 @@ Web application for the analysis and automatic classification of comments relate
 Python · NLP · Machine Learning · Web
 </p>
 
-<a href="TU_LINK_GITHUB_VPH">
+<a href="https://github.com/ulewis/Ardugpt">
 <img src="https://img.shields.io/badge/View%20Project-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
