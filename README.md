@@ -90,8 +90,8 @@ Python · NLP · Machine Learning · Web
 <br/>
 <br/>
 <br/>
-<br/>
-<h3>🩺 Segmentación de imágenes de cáncer gastrointestinal</h3>
+<h3>
+  🩺 Segmentación de imágenes de cáncer gastrointestinal</h3>
 
 <p>
 Desarrollo de un modelo de <b>segmentación semántica de imágenes médicas</b> utilizando Deep Learning y la arquitectura U-Net.
