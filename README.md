@@ -96,7 +96,7 @@ Python · NLP · Machine Learning · Web
 <p>
 Desarrollo de un modelo de <b>segmentación semántica de imágenes médicas</b> utilizando Deep Learning y la arquitectura U-Net.
 </p>
-
+<br/>
 <p>
 <b>🛠️ Tecnologías</b><br>
 Python · TensorFlow · U-Net · Computer Vision
