@@ -56,169 +56,156 @@
 
 # 🚀 Proyectos destacados
 
+# 🚀 Proyectos destacados
+
+<div align="center">
+
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
-<h3 align="center">🧠 Clasificación automática de comentarios sobre la vacuna contra el VPH</h3>
+<div align="center">
 
-<p align="center">
-  <img src="./images/vph.png" width="100%" alt="Clasificación automática de comentarios sobre la vacuna contra el VPH">
-</p>
+<img src="./images/vph.png" width="100%" alt="Clasificación automática de comentarios sobre la vacuna contra el VPH">
+
+### 🧠 Clasificación automática de comentarios sobre la vacuna contra el VPH
 
 <p>
 Aplicación web para el análisis y clasificación automática de comentarios relacionados con la vacunación contra el Virus del Papiloma Humano mediante técnicas de <b>NLP y Machine Learning</b>.
 </p>
 
 <p>
-<b>🛠️ Tecnologías:</b><br>
-Python · NLP · Machine Learning · Web
+<b>🛠️ Python · NLP · Machine Learning · Web</b>
 </p>
 
-<p align="center">
-  <a href="TU_LINK_GITHUB_VPH">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+<a href="TU_LINK_GITHUB_VPH">
+<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
-<h3 align="center">🏥 Valoración inicial de pacientes asistida por LLM</h3>
+<div align="center">
 
-<p align="center">
-  <img src="./images/tesis.png" width="100%" alt="Valoración inicial de pacientes asistida por LLM">
-</p>
+<img src="./images/segmentacion.png" width="100%" alt="Segmentación de imágenes de cáncer gastrointestinal">
 
-<p>
-Desarrollo de un sistema basado en <b>LLM y RAG</b> para apoyar la recomendación de intervenciones de enfermería durante la valoración inicial de pacientes con afecciones respiratorias.
-</p>
-
-<p>
-<b>🛠️ Tecnologías:</b><br>
-Python · LLM · RAG · FAISS · Embeddings · Fine-tuning · RAGAS · Whisper
-</p>
-
-<p align="center">
-  <a href="TU_LINK_GITHUB_TESIS">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🩺 Segmentación de imágenes de cáncer gastrointestinal</h3>
-
-<p align="center">
-  <img src="./images/segmentacion.png" width="100%" alt="Segmentación de imágenes de cáncer gastrointestinal">
-</p>
+### 🩺 Segmentación de imágenes de cáncer gastrointestinal
 
 <p>
 Desarrollo de un modelo de <b>segmentación semántica de imágenes médicas</b> utilizando Deep Learning y la arquitectura U-Net.
 </p>
 
 <p>
-<b>🛠️ Tecnologías:</b><br>
-Python · TensorFlow · Deep Learning · U-Net · Computer Vision
+<b>🛠️ Python · TensorFlow · U-Net · Computer Vision</b>
 </p>
 
-<p align="center">
-  <a href="TU_LINK_GITHUB_SEGMENTACION">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+<a href="TU_LINK_GITHUB_SEGMENTACION">
+<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 </td>
 
-<td width="50%" valign="top">
+</tr>
+</table>
 
-<h3 align="center">⚡ Machine Learning distribuido y paralelo</h3>
+<br>
 
-<p align="center">
-  <img src="./images/ml-distribuido.png" width="100%" alt="Machine Learning distribuido y paralelo">
-</p>
+<table>
+<tr>
+
+<td width="48%" valign="top">
+
+<div align="center">
+
+<img src="./images/ml-distribuido.png" width="100%" alt="Machine Learning distribuido y paralelo">
+
+### ⚡ Machine Learning distribuido y paralelo
 
 <p>
 Implementación y evaluación de algoritmos de <b>Machine Learning en entornos paralelos y distribuidos</b>, comparando rendimiento y uso de recursos.
 </p>
 
 <p>
-<b>🛠️ Tecnologías:</b><br>
-Python · Dask · PySpark · Joblib · XGBoost · TensorFlow
+<b>🛠️ Python · Dask · PySpark · Joblib · XGBoost</b>
 </p>
 
-<p align="center">
-  <a href="TU_LINK_GITHUB_DISTRIBUIDO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+<a href="TU_LINK_GITHUB_DISTRIBUIDO">
+<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 </td>
 
-</tr>
+<td width="48%" valign="top">
 
-<tr>
+<div align="center">
 
-<td width="50%" valign="top">
+<img src="./images/algoritmia.png" width="100%" alt="Intérprete para el lenguaje Algoritmia">
 
-<h3 align="center">💻 Intérprete para el lenguaje Algoritmia</h3>
-
-<p align="center">
-  <img src="./images/algoritmia.png" width="100%" alt="Intérprete para el lenguaje Algoritmia">
-</p>
+### 💻 Intérprete para el lenguaje Algoritmia
 
 <p>
 Desarrollo de un intérprete en <b>Python</b> para el lenguaje Algoritmia utilizando ANTLR4 para la definición de la gramática y el procesamiento sintáctico.
 </p>
 
 <p>
-<b>🛠️ Tecnologías:</b><br>
-Python · ANTLR4 · LilyPond
+<b>🛠️ Python · ANTLR4 · LilyPond</b>
 </p>
 
-<p align="center">
-  <a href="TU_LINK_GITHUB_ALGORITMIA">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+<a href="TU_LINK_GITHUB_ALGORITMIA">
+<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 </td>
 
-<td width="50%" valign="top">
+</tr>
+</table>
 
-<h3 align="center">🎵 Sistema de recomendación de canciones</h3>
+<br>
 
-<p align="center">
-  <img src="./images/recomendador.png" width="100%" alt="Sistema de recomendación de canciones">
-</p>
+<div align="center">
+
+<table>
+<tr>
+
+<td width="48%" valign="top">
+
+<div align="center">
+
+<img src="./images/recomendador.png" width="100%" alt="Sistema de recomendación de canciones">
+
+### 🎵 Sistema de recomendación de canciones
 
 <p>
 Sistema de recomendación musical basado en <b>filtrado colaborativo</b>, utilizando similitud de coseno y técnicas de álgebra lineal para generar recomendaciones personalizadas.
 </p>
 
 <p>
-<b>🛠️ Tecnologías:</b><br>
-Python · Machine Learning · SVD · PCA · Recommender Systems
+<b>🛠️ Python · Machine Learning · SVD · PCA · Recommender Systems</b>
 </p>
 
-<p align="center">
-  <a href="TU_LINK_GITHUB_RECOMENDADOR">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+<a href="TU_LINK_GITHUB_RECOMENDADOR">
+<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 </td>
 
 </tr>
 </table>
+
+</div>
+
 ---
 
 # 📊 GitHub
