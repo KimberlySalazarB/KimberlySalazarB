@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./mp4.gif" width="700" alt="Banner">
+  <img src="./mp4.gif" width="80%" alt="Banner">
 </p>
 
 # 👋 Hola, soy Kimberly
