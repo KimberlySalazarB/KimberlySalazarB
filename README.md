@@ -116,7 +116,7 @@ Development of a <b>medical image semantic segmentation</b> model using Deep Lea
 Python · TensorFlow · U-Net · Computer Vision
 </p>
 
-<a href="TU_LINK_GITHUB_SEGMENTACION">
+<a href="https://github.com/KimberlySalazarB/Proyecto_MachineLearning">
 <img src="https://img.shields.io/badge/View%20Project-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
