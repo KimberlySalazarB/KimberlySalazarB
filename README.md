@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<img src="./1731507397339.jfif" width="400" height="220" alt="Clasificación automática de comentarios sobre la vacuna contra el VPH">
+<img src="./1731507397339.jfif" width="400" height="200" alt="Clasificación automática de comentarios sobre la vacuna contra el VPH">
 
 <h3>🧠 Clasificación automática de comentarios sobre la vacuna contra el VPH</h3>
 
