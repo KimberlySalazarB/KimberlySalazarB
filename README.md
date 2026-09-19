@@ -209,18 +209,31 @@ Python · Machine Learning · SVD · PCA · Recommender Systems
 ---
 
 
+
 ### ⚙️ GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=KimberlySalazarB&show_icons=true&theme=transparent&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimberlySalazarB&layout=compact&theme=transparent&hide_border=true"
-    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KimberlySalazarB&theme=github_dark"
+    width="95%"
+    alt="GitHub Profile Details"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KimberlySalazarB&theme=github_dark"
+    width="48%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KimberlySalazarB&theme=github_dark"
+    width="48%"
+    alt="Repositories per Language"
+  />
+</p>
+
+
 
 
 
