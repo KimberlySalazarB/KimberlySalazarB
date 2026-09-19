@@ -149,7 +149,7 @@ Implementation and evaluation of <b>Machine Learning algorithms in parallel and 
 Python · Dask · PySpark · Joblib · XGBoost
 </p>
 
-<a href="TU_LINK_GITHUB_DISTRIBUIDO">
+<a href="https://github.com/KimberlySalazarB/Computaci-n-paralela-y-distribuida/tree/main/Proyecto-C8286">
 <img src="https://img.shields.io/badge/View%20Project-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
