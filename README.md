@@ -2,14 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&text=Hola%2C%20soy%20Kimberly%20Salazar&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Data%20Science%20Jr.%20%C2%B7%20Machine%20Learning%20%C2%B7%20Artificial%20Intelligence%20%C2%B7%20Business%20Intelligence&descSize=17&descAlignY=68&descColor=cccccc" width="100%"/>
 
-</div>
-<p align="center">
-  <img src="./mp4.gif" width="100%" height="300" alt="Banner">
-</p>
+<img src="./mp4.gif" width="100%" height="300" alt="Banner">
 
-<p align="center">
-  <b>Data Science Jr. · Machine Learning · Artificial Intelligence · Business Intelligence</b>
-</p>
+</div>
 
 ---
 
