@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<img src="./1731508044411.jfif" width="100%" alt="Clasificación automática de comentarios sobre la vacuna contra el VPH">
+<img src="./1731507397339.jfif" width="100%" alt="Clasificación automática de comentarios sobre la vacuna contra el VPH">
 
 <h3>🧠 Clasificación automática de comentarios sobre la vacuna contra el VPH</h3>
 
@@ -86,7 +86,7 @@ Python · NLP · Machine Learning · Web
 
 <div align="center">
 
-<img src="./images/segmentacion.png" width="100%" alt="Segmentación de imágenes de cáncer gastrointestinal">
+<img src="./1731169953416.jfif" width="100%" alt="Segmentación de imágenes de cáncer gastrointestinal">
 
 <h3>🩺 Segmentación de imágenes de cáncer gastrointestinal</h3>
 
@@ -119,7 +119,7 @@ Python · TensorFlow · U-Net · Computer Vision
 
 <div align="center">
 
-<img src="./images/ml-distribuido.png" width="100%" alt="Machine Learning distribuido y paralelo">
+<img src="./1731170333849.jfif" width="100%" alt="Machine Learning distribuido y paralelo">
 
 <h3>⚡ Machine Learning distribuido y paralelo</h3>
 
@@ -177,7 +177,7 @@ Python · ANTLR4 · LilyPond
 
 <div align="center">
 
-<img src="./images/recomendador.png" width="100%" alt="Sistema de recomendación de canciones">
+<img src="./1731508044411.jfif" width="100%" alt="Sistema de recomendación de canciones">
 
 <h3>🎵 Sistema de recomendación de canciones</h3>
 
