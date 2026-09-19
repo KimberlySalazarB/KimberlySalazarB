@@ -52,16 +52,12 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </p>
 
----
-
 # 🚀 Proyectos destacados
-
-<div align="center">
 
 <table>
 <tr>
 
-<td width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" valign="top">
+<td width="48%" valign="top" bgcolor="#161b22">
 
 <div align="center">
 
@@ -79,14 +75,14 @@ Python · NLP · Machine Learning · Web
 </p>
 
 <a href="TU_LINK_GITHUB_VPH">
-<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
 </td>
 
-<td width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" valign="top">
+<td width="48%" valign="top" bgcolor="#161b22">
 
 <div align="center">
 
@@ -104,7 +100,7 @@ Python · TensorFlow · U-Net · Computer Vision
 </p>
 
 <a href="TU_LINK_GITHUB_SEGMENTACION">
-<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -119,7 +115,7 @@ Python · TensorFlow · U-Net · Computer Vision
 <table>
 <tr>
 
-<td width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" valign="top">
+<td width="48%" valign="top" bgcolor="#161b22">
 
 <div align="center">
 
@@ -137,14 +133,14 @@ Python · Dask · PySpark · Joblib · XGBoost
 </p>
 
 <a href="TU_LINK_GITHUB_DISTRIBUIDO">
-<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
 </td>
 
-<td width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" valign="top">
+<td width="48%" valign="top" bgcolor="#161b22">
 
 <div align="center">
 
@@ -162,7 +158,7 @@ Python · ANTLR4 · LilyPond
 </p>
 
 <a href="TU_LINK_GITHUB_ALGORITMIA">
-<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -177,7 +173,7 @@ Python · ANTLR4 · LilyPond
 <table>
 <tr>
 
-<td width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" valign="top">
+<td width="48%" valign="top" bgcolor="#161b22">
 
 <div align="center">
 
@@ -195,7 +191,7 @@ Python · Machine Learning · SVD · PCA · Recommender Systems
 </p>
 
 <a href="TU_LINK_GITHUB_RECOMENDADOR">
-<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -205,7 +201,6 @@ Python · Machine Learning · SVD · PCA · Recommender Systems
 </tr>
 </table>
 
-</div>
 
 
 ---
