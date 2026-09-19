@@ -174,7 +174,7 @@ Development of an interpreter in <b>Python</b> for the Algoritmia language using
 Python · ANTLR4 · LilyPond
 </p>
 
-<a href="TU_LINK_GITHUB_ALGORITMIA">
+<a href="https://github.com/KimberlySalazarB/Algoritmia">
 <img src="https://img.shields.io/badge/View%20Project-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
