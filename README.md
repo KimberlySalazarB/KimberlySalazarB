@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&text=Hola%2C%20soy%20Kimberly%20Salazar&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Data%20Science%20Jr.%20%C2%B7%20Machine%20Learning%20%C2%B7%20Artificial%20Intelligence%20%C2%B7%20Business%20Intelligence&descSize=17&descAlignY=68&descColor=cccccc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&text=Hello%2C%20I'm%20Kimberly%20Salazar&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Data%20Science%20Jr.%20%C2%B7%20Machine%20Learning%20%C2%B7%20Artificial%20Intelligence%20%C2%B7%20Business%20Intelligence&descSize=17&descAlignY=68&descColor=cccccc" width="100%"/>
 
 <img src="./mp4.gif" width="100%" height="300" alt="Banner">
 
@@ -8,19 +8,19 @@
 
 ---
 
-## 👩‍💻 Sobre mí
+## 👩‍💻 About Me
 
-🎓 **Bachiller en Ingeniería Informática** por la Universidad Peruana Cayetano Heredia.
+🎓 **BSc in Informatics Engineering** from Universidad Peruana Cayetano Heredia.
 
-💻 Actualmente me desempeño como **Data Science Jr.**, trabajando en el análisis y procesamiento de información y en el desarrollo de soluciones basadas en datos.
+💻 Currently working as a **Junior Data Scientist**, focusing on information analysis, data processing, and developing data-driven solutions.
 
-🤖 Tengo experiencia académica y de investigación en **Machine Learning, Deep Learning, NLP, Large Language Models (LLM), RAG y sistemas de recomendación**, utilizando Python y herramientas del ecosistema de datos.
+🤖 Academic and research experience in **Machine Learning, Deep Learning, NLP, Large Language Models (LLM), RAG, and recommendation systems**, utilizing Python and the data science ecosystem.
 
-🔎 Me interesa especialmente aplicar la **Inteligencia Artificial y el análisis de datos a problemas reales**, combinando experimentación, evaluación de modelos y desarrollo de soluciones.
+🔎 Particularly interested in applying **Artificial Intelligence and data analysis to real-world problems**, combining experimentation, model evaluation, and solution development.
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Technologies
 
 ### Data Science & AI
 
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </p>
 
-# 🚀 Proyectos destacados
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -61,21 +61,21 @@
 
 <div align="center">
 
-<img src="./1731507397339.jfif" width="400" height="200" alt="Clasificación automática de comentarios sobre la vacuna contra el VPH">
+<img src="./1731507397339.jfif" width="400" height="200" alt="Automatic classification of comments on the HPV vaccine">
 
-<h3>🧠 Clasificación automática de comentarios sobre la vacuna contra el VPH</h3>
+<h3>🧠 Automatic Classification of HPV Vaccine Comments</h3>
 
 <p>
-Aplicación web para el análisis y clasificación automática de comentarios relacionados con la vacunación contra el Virus del Papiloma Humano mediante técnicas de <b>NLP y Machine Learning</b>.
+Web application for the analysis and automatic classification of comments related to the Human Papillomavirus vaccination using <b>NLP and Machine Learning</b> techniques.
 </p>
 
 <p>
-<b>🛠️ Tecnologías</b><br>
+<b>🛠️ Technologies</b><br>
 Python · NLP · Machine Learning · Web
 </p>
 
 <a href="TU_LINK_GITHUB_VPH">
-<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -86,25 +86,25 @@ Python · NLP · Machine Learning · Web
 
 <div align="center">
 
-<img src="./1731169953416.jfif" width="500" height="300" alt="Segmentación de imágenes de cáncer gastrointestinal">
+<img src="./1731169953416.jfif" width="500" height="300" alt="Gastrointestinal cancer image segmentation">
 <br/>
 <br/>
 <br/>
 
 <h3>
-  🩺 Segmentación de imágenes de cáncer gastrointestinal</h3>
+  🩺 Gastrointestinal Cancer Image Segmentation</h3>
 
 <p>
-Desarrollo de un modelo de <b>segmentación semántica de imágenes médicas</b> utilizando Deep Learning y la arquitectura U-Net.
+Development of a <b>medical image semantic segmentation</b> model using Deep Learning and the U-Net architecture.
 </p>
 <br/>
 <p>
-<b>🛠️ Tecnologías</b><br>
+<b>🛠️ Technologies</b><br>
 Python · TensorFlow · U-Net · Computer Vision
 </p>
 
 <a href="TU_LINK_GITHUB_SEGMENTACION">
-<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -123,21 +123,21 @@ Python · TensorFlow · U-Net · Computer Vision
 
 <div align="center">
 
-<img src="./1731170333849.jfif" width="400" height="220" alt="Machine Learning distribuido y paralelo">
+<img src="./1731170333849.jfif" width="400" height="220" alt="Distributed and parallel Machine Learning">
 
-<h3>⚡ Implementación de algoritmos de Machine Learning distribuidos</h3>
+<h3>⚡ Distributed Machine Learning Algorithms Implementation</h3>
 
 <p>
-Implementación y evaluación de algoritmos de <b>Machine Learning en entornos paralelos y distribuidos</b>, comparando rendimiento y uso de recursos.
+Implementation and evaluation of <b>Machine Learning algorithms in parallel and distributed environments</b>, comparing performance and resource usage.
 </p>
 
 <p>
-<b>🛠️ Tecnologías</b><br>
+<b>🛠️ Technologies</b><br>
 Python · Dask · PySpark · Joblib · XGBoost
 </p>
 
 <a href="TU_LINK_GITHUB_DISTRIBUIDO">
-<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -148,21 +148,21 @@ Python · Dask · PySpark · Joblib · XGBoost
 
 <div align="center">
 
-<img src="./algorit.jpg" width="400" height="220" alt="Intérprete para el lenguaje Algoritmia">
+<img src="./algorit.jpg" width="400" height="220" alt="Interpreter for the Algoritmia language">
 
-<h3>💻 Intérprete para el lenguaje Algoritmia</h3>
+<h3>💻 Interpreter for the Algoritmia Language</h3>
 
 <p>
-Desarrollo de un intérprete en <b>Python</b> para el lenguaje Algoritmia utilizando ANTLR4 para la definición de la gramática y el procesamiento sintáctico.
+Development of an interpreter in <b>Python</b> for the Algoritmia language using ANTLR4 for grammar definition and syntactic processing.
 </p>
 
 <p>
-<b>🛠️ Tecnologías</b><br>
+<b>🛠️ Technologies</b><br>
 Python · ANTLR4 · LilyPond
 </p>
 
 <a href="TU_LINK_GITHUB_ALGORITMIA">
-<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -181,21 +181,21 @@ Python · ANTLR4 · LilyPond
 
 <div align="center">
 
-<img src="./1731508044411.jfif" width="400" height="220" alt="Sistema de recomendación de canciones">
+<img src="./1731508044411.jfif" width="400" height="220" alt="Song recommendation system">
 
-<h3>🎵 Sistema de recomendación de canciones</h3>
+<h3>🎵 Song Recommendation System</h3>
 
 <p>
-Sistema de recomendación musical basado en <b>filtrado colaborativo</b>, utilizando similitud de coseno y técnicas de álgebra lineal para generar recomendaciones personalizadas.
+Musical recommendation system based on <b>collaborative filtering</b>, using cosine similarity and linear algebra techniques to generate personalized recommendations.
 </p>
 
 <p>
-<b>🛠️ Tecnologías</b><br>
+<b>🛠️ Technologies</b><br>
 Python · Machine Learning · SVD · PCA · Recommender Systems
 </p>
 
 <a href="TU_LINK_GITHUB_RECOMENDADOR">
-<img src="https://img.shields.io/badge/Ver%20proyecto-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -204,8 +204,6 @@ Python · Machine Learning · SVD · PCA · Recommender Systems
 
 </tr>
 </table>
-
-
 
 ---
 
@@ -240,15 +238,9 @@ Python · Machine Learning · SVD · PCA · Recommender Systems
   </tr>
 </table>
 
-
-
-
-
-
-
 ---
 
-# 📫 Contacto
+# 📫 Contact
 
 <p align="center">
   <a href="mailto:nore.kimberly">
