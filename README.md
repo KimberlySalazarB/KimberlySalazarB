@@ -250,7 +250,7 @@ Python · Machine Learning · SVD · PCA · Recommender Systems
 # 📫 Contacto
 
 <p align="center">
-  <a href="mailto:TU_CORREO">
+  <a href="mailto:nore.kimberly">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/TU_USUARIO/">
