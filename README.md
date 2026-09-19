@@ -221,7 +221,7 @@ Python · Machine Learning · SVD · PCA · Recommender Systems
 
   <a href="https://github.com/KimberlySalazarB">
   <img
-    height="180em"
+    height="300em"
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KimberlySalazarB&layout=compact&langs_count=15&theme=algolia"
   />
 </a>
