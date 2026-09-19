@@ -9,6 +9,13 @@
 
 ...
 
+# 👋 Hola, soy Kimberly
+
+🎓 Bachiller en Ingeniería Informática  
+💻 Data & AI | Machine Learning | BI
+
+...
+
 <!--
 **KimberlySalazarB/KimberlySalazarB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
