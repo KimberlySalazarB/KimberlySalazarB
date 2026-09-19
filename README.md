@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 **BSc in Informatics Engineering** from Universidad Peruana Cayetano Heredia.
+🎓 **BSc in Informatics Engineering**.
 
 💻 Currently working as a **Junior Data Scientist**, focusing on information analysis, data processing, and developing data-driven solutions.
 
