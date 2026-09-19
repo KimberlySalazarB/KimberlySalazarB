@@ -208,30 +208,36 @@ Python · Machine Learning · SVD · PCA · Recommender Systems
 
 ---
 
-
-
-### ⚙️ GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KimberlySalazarB&theme=github_dark"
-    width="95%"
-    alt="GitHub Profile Details"
-  />
+
+  <a href="https://github.com/KimberlySalazarB">
+    <img
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=KimberlySalazarB&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+    />
+  </a>
+
+  <a href="https://github.com/KimberlySalazarB">
+    <img
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KimberlySalazarB&layout=compact&langs_count=8&theme=algolia"
+    />
+  </a>
+
 </p>
 
 <p align="center">
+
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KimberlySalazarB&theme=github_dark"
-    width="48%"
-    alt="GitHub Stats"
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=KimberlySalazarB&theme=dark&hide_border=true"
   />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KimberlySalazarB&theme=github_dark"
-    width="48%"
-    alt="Repositories per Language"
-  />
+
 </p>
+
+
 
 
 
