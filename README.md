@@ -147,7 +147,7 @@ Python · Dask · PySpark · Joblib · XGBoost
 
 <div align="center">
 
-<img src="./images/algoritmia.png" width="400" height="220" alt="Intérprete para el lenguaje Algoritmia">
+<img src="./algorit.jpg" width="400" height="220" alt="Intérprete para el lenguaje Algoritmia">
 
 <h3>💻 Intérprete para el lenguaje Algoritmia</h3>
 
