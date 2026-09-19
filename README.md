@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>👋</h1>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&text=Kimberly%20Salazar&fontSize=45&fontColor=ffffff&fontAlignY=50&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Artificial%20Intelligence&descSize=18&descAlignY=75&descColor=cccccc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&text=Hola%2C%20soy%20Kimberly%20Salazar&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Data%20Science%20Jr.%20%C2%B7%20Machine%20Learning%20%C2%B7%20Artificial%20Intelligence%20%C2%B7%20Business%20Intelligence&descSize=17&descAlignY=68&descColor=cccccc" width="100%"/>
 
 </div>
 
